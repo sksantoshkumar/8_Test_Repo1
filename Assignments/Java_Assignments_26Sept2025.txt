@@ -1,0 +1,106 @@
+
+
+1) Store the numbers in 3 rows * 4 columns, 2D int array. 
+Add all the numbers divisible by 3. Count all the numbers divisible by 5. 
+
+Print the output as follows:
+
+Sum = 
+Count = 
+
+2) Accept a string from user and a character from user.
+Count the number of times the character is appearing in the string.
+If the character is not appearing in the string, a message to be displayed as shown in 2nd input data.
+
+
+Input Data-1
+-----------
+string : hello how are you?
+character : o
+
+Output-1
+--------
+The number of times the character o appears in the string is 3
+
+Input Data-2
+-----------
+string : hello how are you?
+character : m
+
+
+Output-2
+--------
+The character m doesn't appear in the string.
+
+
+3) Accept a number from the user. 
+Extract the digits from the number and add all the digits in the even position.
+The program should work with any number of digits in the number entered by user. 
+
+Input-1
+=======
+253917
+
+Output-1
+========
+21
+
+Comment : 5 + 9 + 7 = 21
+
+
+Input-2
+=======
+82017439
+
+Output-2
+========
+16
+
+Comment : 2 + 1 + 4 + 9 = 16
+
+
+4) Do a calculator program as follows:
+The program should accept 2 numbers from the user.
+It should display below menu
+
+1) Addition
+2) Subtraction
+3) Multiplication
+4) Division
+5) Exit
+
+Enter your choice :
+
+Input
+-----
+13
+21
+Addition
+
+
+Output
+------
+The output is 34
+
+
+5) Create an "employee" class with below details:
+Emp_name, empid, salary, location.
+Define parameterized constructor. 
+
+Create 2nd class - "company" & do the  following things:
+It has main method. 
+Use parameterized constructor & create 6 objects for 6 employees. 
+5.1) Print the empid & Emp_name of the employee who has highest salary in location= Bengaluru.
+
+E.g. Output : Satish has highest salary of Rs. 55,000 in Bengaluru
+
+5.2) Count the number of employees in the location = Chennai
+E.g. Output : There 2 employees working in Chennai.
+
+
+
+
+
+
+
+
